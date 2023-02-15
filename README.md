@@ -1,2 +1,2 @@
 # feature-selection-genetic-algorithm
-Feature Engineering/Selection algorithm which consists of improve any ML performance.
+Feature Engineering/Selection nondeterministic algorithm which allows to improve any ML model perfomance.
